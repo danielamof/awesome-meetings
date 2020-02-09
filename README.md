@@ -10,8 +10,6 @@ An awesome Learning Analytics repository to learn and apply for real educational
 
 ## Motivation
 
-*This part is for dummies who are new to Learning Analytics*
-
 This is a shortcut path to start studying **Learning Analytics**. Just follow the steps to answer the questions, "What is Learning Analytics and what should I study to learn Learning Analytics?"
 
 In essence, Learning Analytics is the science that a) analyzes offline and online students' behavior to optimize and enhance educational context b) can be used by different educational roles, such as teachers and students c) consists of an analytical cycle divided into 5 phases: definition of objectives, data collection, data analysis and visualization, activation of analysis conclusions, and process evaluation. [Here](https://eduliticas.com) you can find additional information, knowledge, and teacher experiences. 
